@@ -55,7 +55,7 @@ export default {
         multiplier: 10
       }, {
         name: "Increase base",
-        cost: 20,
+        cost: 300,
         multiplier: 5
       }]
     })
